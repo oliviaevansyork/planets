@@ -1,5 +1,4 @@
 Cold and dry, but everything is my favourite colour
 The two moons may be a problem for satellites
 But Branston will appreciate the lack of humidity
-An ill-considered change
-we added a diifernt line in the other copy
+we romoved the conflict on this line 
